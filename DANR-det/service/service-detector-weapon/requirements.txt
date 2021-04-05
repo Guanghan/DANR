@@ -1,0 +1,5 @@
+scipy==1.4.1
+Pillow==6.1.0
+Flask==1.1.1
+Flask-Limiter==1.2.1
+gunicorn==20.0.4
