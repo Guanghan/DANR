@@ -191,3 +191,14 @@ To reproduce experiment (5)：
 	```
 	bash ./scripts/run_exp_det_resnest.sh
 	```
+
+## Citation
+If you find this work helpful, please cite:
+```
+@article{ning2021data,
+  title={Data Augmentation for Object Detection via Differentiable Neural Rendering},
+  author={Ning, Guanghan and Chen, Guang and Tan, Chaowei and Luo, Si and Bo, Liefeng and Huang, Heng},
+  journal={arXiv preprint arXiv:2103.02852},
+  year={2021}
+}
+```
